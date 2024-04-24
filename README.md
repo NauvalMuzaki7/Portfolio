@@ -82,7 +82,7 @@ Meanwhile, JKSE Stock Index Close Price Data without using stationarity handling
 ### Link to Project
 
 - [Bike Sharing Project](https://github.com/NauvalMuzaki7/Data_Analysis_Project): Showing all analysis steps of Bike Sharing Dataset.
-- [K-Means Clustering Project](https://github.com/NauvalMuzaki7/Data_Analysis_Project): Grouping Poverty by District/City in Central Java in 2021 Using K-Means Clustering.
+- [K-Means Clustering Project](https://github.com/NauvalMuzaki7/Clustering_Project): Grouping Poverty by District/City in Central Java in 2021 Using K-Means Clustering.
 - [Support Vector Regression Project](https://github.com/NauvalMuzaki7/LSTM_Project/blob/main/Univariat_Timeseries_Close_JKSE_LSTM_without_differencing_method_(1).ipynb): JKSE Stock Price Prediction Using Long-Short Term Memory With and Without Stationarity Input.
 ## Skills
 
