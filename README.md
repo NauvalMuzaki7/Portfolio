@@ -89,7 +89,7 @@ Meanwhile, JKSE Stock Index Close Price Data without using stationarity handling
 ### Data Wrangling
 **Description**: Gather social media influencer data from various platforms, assess and clean the data for analysis.
 
-**Requirements**: Python, Pandas, MySQL.
+**Requirements**: R, Python, Pandas, MySQL.
 
 **Result**: Clean and structured data, suitable for exploration and further analysis.
 
