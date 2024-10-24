@@ -79,11 +79,36 @@ JKSE Stock Index Close Price data using stationarity handling modeled using the 
 
 Meanwhile, JKSE Stock Index Close Price Data without using stationarity handling modeled using the five methods, the best model for predicting validation data is to use the Bidirectional LSTM method with an RMSE value of 26.26 and an MAE value of 20.44. Meanwhile, to predict the next 4 periods (days) of data, the best model is the Vanilla LSTM model with an RMSE value of 37.21 and MAE of 28.72.
 
+## 4. Using Multidimensional Scaling for Grouping Social Media Influencers
+**Description**: This project aims to group social media influencers based on multiple factors such as follower count, engagement rates, and post frequency, using Multidimensional Scaling (MDS). MDS is used to visualize the similarity or dissimilarity between influencers, providing insights into how different influencers compare and form clusters.
+
+**Requirements**: Python, Pandas, scikit-learn, Matplotlib, Seaborn.
+
+**Result**: The project successfully grouped influencers into distinct clusters based on their engagement metrics. These groupings help brands and marketing teams target the right influencers for their campaigns, optimizing outreach efforts and increasing audience engagement.
+
+### Data Wrangling
+**Description**: Gather social media influencer data from various platforms, assess and clean the data for analysis.
+
+**Requirements**: Python, Pandas, MySQL.
+
+**Result**: Clean and structured data, suitable for exploration and further analysis.
+
+### Multidimensional Scaling (MDS) Implementation
+**Description**: Using MDS to visualize the relative positioning of influencers based on similarity and clustering patterns.
+
+**Result**: Visual representation of influencers in a 2D space, highlighting clear clusters based on engagement and reach.
+
+### Link to Project
+
+
+
 ### Link to Project
 
 - [Bike Sharing Project](https://github.com/NauvalMuzaki7/Data_Analysis_Project): Showing all analysis steps of Bike Sharing Dataset.
 - [K-Means Clustering Project](https://github.com/NauvalMuzaki7/Clustering_Project): Grouping Poverty by District/City in Central Java in 2021 Using K-Means Clustering.
 - [Support Vector Regression Project](https://github.com/NauvalMuzaki7/LSTM_Project/blob/main/Univariat_Timeseries_Close_JKSE_LSTM_without_differencing_method_(1).ipynb): JKSE Stock Price Prediction Using Long-Short Term Memory With and Without Stationarity Input.
+- [Multidimensional Scaling Project](https://github.com/NauvalMuzaki7/MDS_Project): Grouping Social Media Influencers using Multidimensional Scaling.
+
 ## Skills
 
 - Programming Language: Python, SQL, R
